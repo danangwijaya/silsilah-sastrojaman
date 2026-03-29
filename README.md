@@ -83,5 +83,4 @@ firebase deploy --only hosting
 ## 📄 License
 This codebase is developed for private family documentation management, however, the interactive layout algorithms are fully open intended.
 
----
-*Built with ❤️ utilizing Advanced Artificial Intelligence Assistance*
+

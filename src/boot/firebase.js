@@ -6,13 +6,13 @@ import { getStorage } from "firebase/storage";
 // ============ Firebase Configuration ============
 // Menggunakan konfigurasi yang sama dari aplikasi sebelumnya
 const firebaseConfig = {
-    apiKey: "AIzaSyAwPL-ew_YDoevL0HUxEH3TTKFY_lbw0uk",
+    apiKey: "API KEY",
     authDomain: "silsilah-sastrojaman.firebaseapp.com",
     projectId: "silsilah-sastrojaman",
     storageBucket: "silsilah-sastrojaman.firebasestorage.app",
-    messagingSenderId: "975582815892",
-    appId: "1:975582815892:web:94c36fe1e260c302f4b681",
-    measurementId: "G-N8XGHVNSKQ"
+    messagingSenderId: "YOUR ID",
+    appId: "YOUR ID",
+    measurementId: "G-XXXXXX"
 };
 
 const app = initializeApp(firebaseConfig);
